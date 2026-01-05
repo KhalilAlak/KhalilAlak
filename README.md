@@ -1,16 +1,15 @@
-<img align="right" height="250px" width="350"
+<img align="right" height="260px" alt="coding-gif" width="360"
 src="https://i.pinimg.com/originals/e4/26/70/e426702edf874b181aced1e2fa5c6cde.gif" />
 
 <h1>Hi there 👋 I'm Khalil Alakbarzade</h1>
 
-> MSc Data Science Student | Industrial Engineering Graduate | Data Analytics & Machine Learning  
-
+> MSc Data Science Student | Industrial Engineering Graduate | Data Analytics & ML Enthusiast  
 <br />
 
 - 🎓 **MSc Data Science** — University of Sheffield (UK)  
 - 🎓 **BEng Industrial Engineering** — UNEC (Azerbaijan)  
-- 📊 Strong background in **analytical modelling & data-driven decision making**  
-- 🌍 Interested in **applied data science**, urban data, air quality & social analytics  
+- 📊 Strong focus on **end-to-end data science & reproducible analysis**  
+- 🌍 Interested in **applied data science**, urban data, air quality & decision systems  
 - 💬 Ask me about **data analysis, statistics, R, Python, or academic projects**
 
 <img src="https://komarev.com/ghpvc/?username=KhalilAlak&label=Profile%20views&color=brightgreen&style=plastic" alt="profile views"/>
@@ -20,17 +19,17 @@ src="https://i.pinimg.com/originals/e4/26/70/e426702edf874b181aced1e2fa5c6cde.gi
 
 <br><br>
 
-## 🧠 Academic & Research Focus
+## 🧠 Academic & Technical Focus
 
-- 📈 Statistical analysis & regression modelling  
-- 🤖 Machine learning (predictive & exploratory methods)  
-- 📊 Data visualisation & insight communication  
+- 📈 Statistical analysis & modelling  
+- 🤖 Machine learning (regression, exploratory & predictive models)  
+- 📊 Data visualisation & storytelling  
 - 🧪 Research methods & responsible data science  
-- 🏙️ Applied projects using real-world datasets  
+- 🏙️ Applied projects (air quality, social & urban datasets)
 
 ---
 
-## 💻 Technical Skills & Tools
+## 💻 Technologies & Skills
 
 <div>
   <img alt="Python" src="https://img.shields.io/badge/Python-14354C.svg?style=for-the-badge&logo=python&logoColor=white"/>
@@ -38,11 +37,11 @@ src="https://i.pinimg.com/originals/e4/26/70/e426702edf874b181aced1e2fa5c6cde.gi
   <img alt="SQL" src="https://img.shields.io/badge/SQL-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white"/>
   <img alt="SPSS" src="https://img.shields.io/badge/SPSS-003A8F?style=for-the-badge&logo=ibm&logoColor=white"/>
   <img alt="Excel" src="https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white"/>
-  <img alt="Power BI" src="https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black"/>
+  <img alt="PowerBI" src="https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black"/>
   <img alt="Tableau" src="https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=tableau&logoColor=white"/>
   <img alt="Git" src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"/>
   <img alt="GitHub" src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
-  <img alt="VS Code" src="https://img.shields.io/badge/VS_Code-0078D4?style=for-the-badge&logo=visual-studio-code&logoColor=white"/>
+  <img alt="VSCode" src="https://img.shields.io/badge/VS_Code-0078D4?style=for-the-badge&logo=visual-studio-code&logoColor=white"/>
 </div>
 
 <br>
@@ -54,29 +53,16 @@ src="https://i.pinimg.com/originals/e4/26/70/e426702edf874b181aced1e2fa5c6cde.gi
 - 📁 **End-to-end data science projects**
 - 📊 Exploratory data analysis & visualisation
 - 📉 Statistical & machine learning models
-- 🧾 Clean, reproducible, well-documented code
-- 🎓 MSc coursework & research-style analyses  
+- 🧾 Clean, well-documented, reproducible code
+- 🎓 MSc coursework & research-style projects
 
-Each repository follows **structured pipelines** and reflects **real academic and industry workflows**.
+Each repository reflects **real academic and industry-style workflows**, not just isolated scripts.
 
 ---
 
 ## 🚥 GitHub Activity
 
-<p>
-  <img align="left"
-    src="https://github-readme-stats.vercel.app/api/top-langs?username=KhalilAlak&langs_count=8&layout=compact&theme=tokyonight"
-    alt="Top Languages"/>
-</p>
-
-<p>
-  <img align="right"
-    src="https://github-readme-stats.vercel.app/api?username=KhalilAlak&show_icons=true&theme=tokyonight"
-    width="410"
-    alt="GitHub Stats"/>
-</p>
-
-<br><br><br><br><br><br><br><br>
+![Khalil's Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=KhalilAlak&bg_color=0D1117&color=58A6FF&line=58A6FF&point=FFFFFF&area=true)
 
 ---
 
