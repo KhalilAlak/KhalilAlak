@@ -9,7 +9,7 @@ src="https://i.pinimg.com/originals/e4/26/70/e426702edf874b181aced1e2fa5c6cde.gi
 - 🎓 **MSc Data Science** — University of Sheffield (UK)  
 - 🎓 **BEng Industrial Engineering** — UNEC (Azerbaijan)  
 - 📊 Strong focus on **end-to-end data science & reproducible analysis**  
-- 🌍 Interested in **applied data science**, urban data, air quality & decision systems  
+- 🌍 Interested in **applied data science**, machine learning 
 - 💬 Ask me about **data analysis, statistics, R, Python, or academic projects**
 
 <img src="https://komarev.com/ghpvc/?username=KhalilAlak&label=Profile%20views&color=brightgreen&style=plastic" alt="profile views"/>
