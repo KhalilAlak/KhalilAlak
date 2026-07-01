@@ -1,15 +1,15 @@
-<img align="right" height="260px" alt="coding-gif" width="360"
-src="https://i.pinimg.com/originals/e4/26/70/e426702edf874b181aced1e2fa5c6cde.gif" />
+<img align="right" height="260px" alt="coding-gif" width="360" src="https://i.pinimg.com/originals/e4/26/70/e426702edf874b181aced1e2fa5c6cde.gif" />
 
 <h1>Hi there 👋 I'm Khalil Alakbarzade</h1>
 
-> MSc Data Science Student | Industrial Engineering Graduate | Data Analytics & ML Enthusiast  
+> MSc Data Science Student | Industrial Engineering Graduate | Data Analytics & ML Enthusiast
+
 <br />
 
-- 🎓 **MSc Data Science** — University of Sheffield (UK)  
-- 🎓 **BEng Industrial Engineering** — UNEC (Azerbaijan)  
-- 📊 Strong focus on **end-to-end data science & reproducible analysis**  
-- 🌍 Interested in **applied data science**, machine learning 
+- 🎓 **MSc Data Science** — University of Sheffield (UK)
+- 🎓 **BEng Industrial Engineering** — UNEC (Azerbaijan)
+- 📊 Strong focus on **end-to-end data science & reproducible analysis**
+- 🌍 Interested in **applied data science**, machine learning
 - 💬 Ask me about **data analysis, statistics, R, Python, or academic projects**
 
 <img src="https://komarev.com/ghpvc/?username=KhalilAlak&label=Profile%20views&color=brightgreen&style=plastic" alt="profile views"/>
@@ -21,10 +21,10 @@ src="https://i.pinimg.com/originals/e4/26/70/e426702edf874b181aced1e2fa5c6cde.gi
 
 ## 🧠 Academic & Technical Focus
 
-- 📈 Statistical analysis & modelling  
-- 🤖 Machine learning (regression, exploratory & predictive models)  
-- 📊 Data visualisation & storytelling  
-- 🧪 Research methods & responsible data science  
+- 📈 Statistical analysis & modelling
+- 🤖 Machine learning (regression, exploratory & predictive models)
+- 📊 Data visualisation & storytelling
+- 🧪 Research methods & responsible data science
 - 🏙️ Applied projects (air quality, social & urban datasets)
 
 ---
@@ -70,13 +70,22 @@ Each repository reflects **real academic and industry-style workflows**, not jus
 
 <p align="left">
   <a href="https://www.linkedin.com/in/khalilalakbarzade/" target="_blank">
-    <img src="https://www.svgrepo.com/show/448234/linkedin.svg" height="30" width="40"/>
+    <img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+  </a>
+  <a href="https://www.instagram.com/khalilalakbar" target="_blank">
+    <img alt="Instagram" src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/>
+  </a>
+  <a href="https://www.kaggle.com/khalilalakbarzade" target="_blank">
+    <img alt="Kaggle" src="https://img.shields.io/badge/Kaggle-20BEFF?style=for-the-badge&logo=kaggle&logoColor=white"/>
+  </a>
+  <a href="https://khalilalakbarzade.com/" target="_blank">
+    <img alt="Website" src="https://img.shields.io/badge/Website-4285F4?style=for-the-badge&logo=googlechrome&logoColor=white"/>
   </a>
   <a href="mailto:khalilalakbarzade@gmail.com" target="_blank">
-    <img src="https://www.svgrepo.com/show/349378/gmail.svg" height="30" width="40"/>
+    <img alt="Gmail" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
   </a>
   <a href="https://github.com/KhalilAlak" target="_blank">
-    <img src="https://www.svgrepo.com/show/512317/github-142.svg" height="30" width="40"/>
+    <img alt="GitHub" src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
   </a>
 </p>
 
